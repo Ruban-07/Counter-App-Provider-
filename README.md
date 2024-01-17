@@ -7,7 +7,7 @@ State Management using Provider
 ## Clone the repo:
 
 ```
-git clone https://github.com/Ruban-07/Counter-App-Provider
+git clone https://github.com/Ruban-07/Counter-App-Provider-
 ```
 
 ## Go to the root directory
