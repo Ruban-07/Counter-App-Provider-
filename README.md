@@ -1,16 +1,33 @@
-# counter_application
+# Counter Application using Provider
 
-A new Flutter project.
+State Management using Provider
 
-## Getting Started
+[Flutter Provider](https://pub.dev/packages/provider)
 
-This project is a starting point for a Flutter application.
+## Clone the repo:
 
-A few resources to get you started if this is your first Flutter project:
+```
+git clone https://github.com/Ruban-07/Counter-App-Provider
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Go to the root directory
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+cd Counter-App-Provider
+```
+
+## Get the Flutter Dependency
+
+```
+Flutter pub get
+```
+
+## Run the Application
+
+```
+flutter run
+```
+
+For more details contact:
+
+[Ruban Raghavendar K](https://www.linkedin.com/in/ruban-raghavendar-k/)<br>Software Engineer
